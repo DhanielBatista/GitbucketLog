@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BitbucketLog": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Hegrist\\Desktop\\BitbucketLog\\input.txt\""
+    }
+  }
+}
